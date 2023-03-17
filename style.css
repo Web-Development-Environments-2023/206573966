@@ -32,3 +32,18 @@ html
 {
 	background: rgb(78, 117, 104);
 }
+
+#form1
+{
+	text-align: center;
+}
+
+option
+{
+	display: inline;
+}
+
+#qr
+{
+	
+}
