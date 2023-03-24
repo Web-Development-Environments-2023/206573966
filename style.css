@@ -11,7 +11,7 @@
 h1
 {
 	text-align:center;
-	color: red;
+	color: #044a42;
 	font-family: Arial, Helvetica, sans-serif;
 }
 h3
@@ -30,7 +30,7 @@ a
 
 p
 {
-	font-size: medium;
+	font-size: large;
 	color: white;
 	text-decoration: none;
 }
@@ -58,10 +58,7 @@ td
 	font-family: Arial, Helvetica, sans-serif;
 }
 
-img
-{
-	position: sticky;
-}
+
 #about
 {
 	font-family: Arial, Helvetica, sans-serif;
@@ -84,3 +81,4 @@ label{
 	text-align:center;
 	
 }
+
